@@ -68,7 +68,9 @@ $table_prefix = 'wpwn_';
  *
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
-define('WP_DEBUG', false);
+define('WP_DEBUG', true);
+
+define('WP_DEBUG_DISPLAY', false);
 /* That's all, stop editing! Happy publishing. */
 /** Absolute path to the WordPress directory. */
 if (!defined('ABSPATH')) {
