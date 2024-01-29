@@ -24,7 +24,7 @@ define('DB_NAME', 'forge');
 /** MySQL database username */
 define('DB_USER', 'forge');
 /** MySQL database password */
-define('DB_PASSWORD', '5XKe6bhogfvd2rK6DFWY');
+define('DB_PASSWORD', 'bf6iKkbw8SVVVLabAoem');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
