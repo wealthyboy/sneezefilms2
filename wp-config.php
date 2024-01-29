@@ -71,6 +71,8 @@ $table_prefix = 'wpwn_';
 define('WP_DEBUG', true);
 
 define('WP_DEBUG_DISPLAY', false);
+
+
 /* That's all, stop editing! Happy publishing. */
 /** Absolute path to the WordPress directory. */
 if (!defined('ABSPATH')) {
